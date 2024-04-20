@@ -27,7 +27,7 @@
         android:hint="Стоимость комплекта"
         android:layout_marginTop="25dp"
         android:padding="10dp"
-        android:background="#DFCEC3"
+        android:background="#C4EDF3"
         android:gravity="top"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
